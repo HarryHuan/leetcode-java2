@@ -3,6 +3,14 @@
   <component name="LeetcodeEditor">
     <option name="projectConfig">
       <map>
+        <entry key="$PROJECT_DIR$/leetcode/leetcode/editor/cn/RemoveDuplicatesFromSortedListIi.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/leetcode/leetcode/editor/cn/RemoveDuplicatesFromSortedListIi.java" />
+              <option name="questionId" value="82" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/harry/leetcode/editor/cn/AddTwoNumbers.java">
           <value>
             <LeetcodeEditor>
@@ -64,6 +72,22 @@
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/src/com/harry/leetcode/editor/cn/MinimumFallingPathSum.java" />
               <option name="questionId" value="967" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/harry/leetcode/editor/cn/PartitionList.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/com/harry/leetcode/editor/cn/PartitionList.java" />
+              <option name="questionId" value="86" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/harry/leetcode/editor/cn/RemoveDuplicatesFromSortedList.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/com/harry/leetcode/editor/cn/RemoveDuplicatesFromSortedList.java" />
+              <option name="questionId" value="83" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -144,6 +168,22 @@
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/src/com/harry/leetcode/editor/cn/[1]两数之和.java" />
               <option name="questionId" value="1" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/RemoveDuplicatesFromSortedListIi.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/RemoveDuplicatesFromSortedListIi.java" />
+              <option name="questionId" value="82" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="F:/Coding/leetcode/leetcode/editor/cn/RemoveDuplicatesFromSortedListIi.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="F:/Coding/leetcode/leetcode/editor/cn/RemoveDuplicatesFromSortedListIi.java" />
+              <option name="questionId" value="82" />
             </LeetcodeEditor>
           </value>
         </entry>
